@@ -7,3 +7,6 @@
     background-color: rgb(253, 220, 236);
     padding: 100px;
 }
+.banner-container{
+    display: flex;
+}
