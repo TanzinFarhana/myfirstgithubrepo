@@ -1,0 +1,20 @@
+*{
+    margin:.2%
+} 
+.container{
+    display: flex;
+    justify-content: space-around; 
+    margin-top: 10%;
+}
+.box{
+    padding: 20px;
+    background-color: rgba(248, 208, 228, 0.801);
+    width: 150px;
+    height: 150px;
+}
+.box2{
+    background-color: rgb(203, 235, 235);
+}
+.box3{
+    background-color: rgb(224, 223, 223);
+}
